@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me: Courier pidgeon
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play guitar :p
+- ⚡ Fun fact: I play guitar :p (also i use arch btw)
 
 <!---
 GlacialFalcon/GlacialFalcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
